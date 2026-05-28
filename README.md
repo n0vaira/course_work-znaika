@@ -44,7 +44,7 @@ git clone https://github.com/n0vaira/course_work-znaika.git
 cd course_work-znaika
 
 # 2. Установи зависимости
-pip install pygame
+pip install -r requirements.txt
 
 # 3. Запусти приложение
 python main.py
