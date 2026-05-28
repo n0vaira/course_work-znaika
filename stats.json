@@ -1,0 +1,22 @@
+{
+    "animals": {
+        "correct": 5,
+        "wrong": 2,
+        "ru": "Животные"
+    },
+    "colors": {
+        "correct": 1,
+        "wrong": 1,
+        "ru": "Цвета"
+    },
+    "vegetables": {
+        "correct": 1,
+        "wrong": 2,
+        "ru": "Овощи"
+    },
+    "fruits": {
+        "correct": 1,
+        "wrong": 0,
+        "ru": "Фрукты"
+    }
+}
